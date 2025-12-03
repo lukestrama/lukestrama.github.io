@@ -16,7 +16,7 @@
 title: Luke Strama
 email: lukestrama@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my site! I'm a web developer working primarily in the EmberJS world.
+  Welcome to my site! I'm a freelance Ember.js developer with a focus on maintenance, upgrades and consulting.
 twitter_username: StramaWeb
 github_username: lukestrama
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
 author:
   name: "Luke Strama"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I'm a developer with a passion for frontend. I specialize in EmberJS development."
+  bio: "Freelance Ember.js Developer - Maintenance, Upgrades, Consulting"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
